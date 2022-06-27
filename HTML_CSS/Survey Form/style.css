@@ -1,0 +1,93 @@
+input {
+    background-color:lightgrey;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 40rem;
+    min-width: 20rem;
+  
+  }
+  
+  p {
+    text-align:center;
+  }
+  
+  #description {
+    color:red;
+  }
+  
+  #title {
+    color: blue;
+  }
+  
+  #email {
+    color:green;
+  }
+  
+  #name {
+    color:purple;
+  }
+  
+  #number {
+    color:yellow;
+  }
+  
+  #textarea {
+    margin:0 auto;
+    margin-top: 1rem;
+    text-align: center;
+    display: block;
+    max-width: 40rem;
+    min-width: 20rem;
+  }
+  
+  #dd {
+    text-align:center;
+    display:block;
+  }
+  
+  #horseop {
+  
+    margin: 0 auto;
+    width: 20rem;
+  
+  }
+  
+  #dropdown {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  
+  label {
+    text-align:center;
+    font-size: large;
+    margin:0 auto;
+  
+  }
+  
+  #yes {
+    margin:0 auto;
+    margin-top: 1rem;
+    text-align: center;
+    display: block;
+  }
+  
+  #submit {
+    color:red;
+    input-type: submit;
+  }
+  
+  #no {
+    margin:0 auto;
+    margin-top: 1rem;
+    text-align: center;
+    display: block;
+  }
+  
+  h2 {
+  
+    text-align:center;
+    font-size: large;
+    margin-bottom: 0;
+  }
